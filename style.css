@@ -155,7 +155,7 @@ header {
     display: inline-block;
 }
 
-.hero h1 { font-size: 3rem; line-height: 1.1; margin-bottom: 1rem; }
+.hero h1 { font-size: 2.0rem; line-height: 1.1; margin-bottom: 1rem; }
 .hero p { color: var(--text-muted); font-size: 1.1rem; margin-bottom: 2rem; max-width: 500px; }
 
 .social-hero a {
